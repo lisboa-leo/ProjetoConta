@@ -1,0 +1,1 @@
+Nesse projeto eu desenvolvi um sistema de conta bancária, onde ele faz saques, depósitos, vê a conta bancaria dele e tem as opções de menu. Para utilizar esse projeto é bem simples é so abrir a pasta conta unica e utilizar no aplicativo eclipse.
