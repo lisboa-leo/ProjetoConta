@@ -1,4 +1,4 @@
-## Conta Bancária
+## :bank: Conta Bancária
 
 Olá, pessoal!
 
